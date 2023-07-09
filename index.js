@@ -67,7 +67,7 @@ app.on('ready', () => {
 				// nativeWindowOpen: true,
 			},
 			width: 1200,
-			height: 750,
+			height: 810,
 		},
 		tray,
 		showOnAllWorkspaces: true,
